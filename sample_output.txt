@@ -1,0 +1,9 @@
+Student: papia khatun | Marks: 93 | Grade: A
+Student: anuriya biswas | Marks: 78 | Grade: C
+Student: isha bisal | Marks: 65 | Grade: C
+
+Class Summary:
+Total marks = 236
+Average marks = 78.67
+Highest = papia khatun (93 marks)
+Lowest = isha bisal (65 marks)
