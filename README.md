@@ -14,7 +14,7 @@ It is a simple web app that allows you to:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/student-marks-analysis.git
+git clone https://github.com/papia0403/student-marks-analysis.git
 cd student-marks-analysis
 ```
 
